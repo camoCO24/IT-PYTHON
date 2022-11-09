@@ -74,23 +74,23 @@ for b in a:
     print(son, '-', b, end=('\n'))
     son += 1
     
-# savol = input('amal raqamini kriting.>>> ')
-# if savol == '1':
-#     a = randint(1,11)
-#     b = randint(1,11)
-#     print('misollarni javobini kriting:')
-#     c = int(input('{} - {} =' .format(a, b)))
-#     if c == (a - b):
-#         print('togri :)')
-#     else:
-#         print('xato! :(')
-# elif savol == '2':
-#     print('bolish')
-# elif savol == '3':
-# #     print('qoshish')
-# from random import randint
-# print('amallardan birini tanlang va ozingizni sinab koring')
-# a = ('ayru','bolu','qoshu','kopaytru' )
+savol = input('amal raqamini kriting.>>> ')
+if savol == '1':
+    a = randint(1,11)
+    b = randint(1,11)
+    print('misollarni javobini kriting:')
+    c = int(input('{} - {} =' .format(a, b)))
+    if c == (a - b):
+        print('togri :)')
+    else:
+        print('xato! :(')
+elif savol == '2':
+    print('bolish')
+elif savol == '3':
+    print('qoshish')
+from random import randint
+print('amallardan birini tanlang va ozingizni sinab koring')
+a = ('ayru','bolu','qoshu','kopaytru' )
 
 # son = 1
 # for b in a:    
@@ -135,11 +135,11 @@ for b in a:
 # print(talaba_1)
 # printq
 
-sonlar = {}
-a_1 = int(input("a>>>  "))
-b_1 = int(input("b>>>  "))
-sonlar["a"] = a_1
-sonlar['b'] = b_1
-print(sonlar)
+# sonlar = {}
+# a_1 = int(input("a>>>  "))
+# b_1 = int(input("b>>>  "))
+# sonlar["a"] = a_1
+# sonlar['b'] = b_1
+# print(sonlar)
 
-print(f"a = {sonlar['a']}")
+# print(f"a = {sonlar['a']}")

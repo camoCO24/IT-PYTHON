@@ -51,3 +51,20 @@
 # for a in a_1:
 #     for b in b_1:
 #         print(f'formula: a * b; {a} * {b} = {a*b}')
+
+
+ism = input('asalomu alaykum foydalanuvchi ismingizni kriting>>>! ')
+print (f'salom  {ism}  dasyurimizga hush kelbsiz')
+
+
+
+input ('taomlardan birini tanlang>>>! '
+       'olma':10000,
+       'anor':20000,
+       'uzum':40000,
+       'anjir':25000,
+       'shaftoli':30000
+)
+       
+
+

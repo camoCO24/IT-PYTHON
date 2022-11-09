@@ -66,14 +66,14 @@ menu = []
 # taom_2 = input()    
     
     
-print('matimatikada ozingizni sinab koring? ')
-print(1.['kopaytiruv'])
-print(2.['boliv'])
-print(3.['qoshish'])
-print(4.['ayirma'])
-print(5.['taqsimalsh'])
-a = ['a','b','c']
-son = 1
-for b in a:
-    print(son, '-',b,end=('\n'))
-    son +=1
+# print('matimatikada ozingizni sinab koring? ')
+# print(1.['kopaytiruv'])
+# print(2.['boliv'])
+# print(3.['qoshish'])
+# print(4.['ayirma'])
+# print(5.['taqsimalsh'])
+# a = ['a','b','c']
+# son = 1
+# for b in a:
+#     print(son, '-',b,end=('\n'))
+#     son +=1
