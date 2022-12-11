@@ -25,13 +25,15 @@
 # bubble_sort(nums)
 
 
+son  = input('son iriting>>> ')
 
-natija = 0
-son = (int(input('istalgan sonni kriting>>>! '))
-for i in range(len(son))
-    natija += son[i]
+def son_top(num):
+    summa = 0
+    for x in range(len(son)):
+        summa = summa + int(son[x])
+    return summa
 
-
+print(son_top(son))
 
 
 

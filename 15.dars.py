@@ -53,6 +53,6 @@
 # c = (a,b)
 # print('sonni kriting')
 # if == c: 
-#  print('togri :)')
+#   print('togri :)')
 # else:
-#  print('xato! :(')
+#   print('xato! :(')
